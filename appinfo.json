@@ -1,0 +1,71 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "valerio.ceniccola@gmail.com",
+    "longName": "Pocketsoccer",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/icn_app.png",
+                "menuIcon": true,
+                "name": "IMAGES_ICN_APP_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/icn_ligue.png",
+                "name": "IMAGES_ICN_LIGUE_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/icn_liga.png",
+                "name": "IMAGES_ICN_LIGA_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/icn_bundesliga.png",
+                "name": "IMAGES_ICN_BUNDESLIGA_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/icn_seriea.png",
+                "name": "IMAGES_ICN_SERIEA_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/icn_premier.png",
+                "name": "IMAGES_ICN_PREMIER_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Pocketsoccer",
+    "uuid": "0971fec2-4aa9-4523-8b87-dd489a8c3654",
+    "versionCode": 1,
+    "versionLabel": "0.8",
+    "watchapp": {
+        "watchface": false
+    }
+}
